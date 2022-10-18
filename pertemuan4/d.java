@@ -42,7 +42,7 @@ public class d {
                 System.out.println("PPN : " + 10000 * 0.1);
                 System.out.println("TOTAL HARGA : ");
                 System.out.println("TOTAL BAYAR : " + 50000);
-                System.out.println("KEMBALIAN : " + 28000);
+                System.out.println("KEMBALIAN : " + 39000);
                 break;
             case 4:
 
@@ -51,7 +51,7 @@ public class d {
                 System.out.println("PPN : " + 25000 * 0.1);
                 System.out.println("TOTAL HARGA : ");
                 System.out.println("TOTAL BAYAR : " + 50000);
-                System.out.println("KEMBALIAN : " + 28000);
+                System.out.println("KEMBALIAN : " + 22500);
                 break;
             case 5:
 
@@ -69,7 +69,7 @@ public class d {
                 System.out.println("PPN : " + 30000 * 0.1);
                 System.out.println("TOTAL HARGA : ");
                 System.out.println("TOTAL BAYAR : " + 50000);
-                System.out.println("KEMBALIAN : " + 28000);
+                System.out.println("KEMBALIAN : " + 17000);
                 break;
             default:
                 System.out.println("Salah Pilih ! :(");
