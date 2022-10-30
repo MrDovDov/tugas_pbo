@@ -4,7 +4,7 @@ public class c {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int bil;
-        System.out.println("PROGRAM MENENTUKAN BILANGAN HANJIL & GENAP");
+        System.out.println("PROGRAM MENENTUKAN BILANGAN GANJIL & GENAP");
         System.out.println("-------------------------------------------------");
         System.out.print("Masukan Bilangan = ");
         bil = input.nextInt();
